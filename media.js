@@ -26,7 +26,7 @@ wavesurfer.init({
 
 
 //загружаем нужную песню
-wavesurfer.load("sound.mp3");
+wavesurfer.load("miyagi-jendshpil-feat.-rem-digga-untouchable.mp3");
 
 //play and pause a player
 playPause.addEventListener("click", function (e) {
